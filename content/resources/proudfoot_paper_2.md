@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Proudfoot_paper_2.pdf
-type: OCWFile
 uid: d0aa5c79-9d42-14a7-87e2-19b3017e401e
 ---

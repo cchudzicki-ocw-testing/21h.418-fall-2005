@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw4.pdf
-type: OCWFile
 uid: 1e2304cf-2ef0-bc35-96b8-d7bd71197f2b
 ---
