@@ -116,7 +116,7 @@ Thompson, Roger, ed. _Samuel Pepys' Penny Merriments_. New York, NY: Columbia Un
   
 Read a seventeenth-century chapbook at [Harvard's Houghton Library](https://library.harvard.edu/libraries/houghton) or a work in the [Early English Books Online (EEBO)](http://eebo.chadwyck.com/home) database. Details to be provided in class.  
   
-Hausman, Nicholas. {{< resource_link 9f0a8a9e-1327-8983-9f90-71c8b348b9a8 "Chapbook Analysis" >}}. (Student analysis of Guy of Warwick)
+Hausman, Nicholas. {{% resource_link 9f0a8a9e-1327-8983-9f90-71c8b348b9a8 "Chapbook Analysis" %}}. (Student analysis of Guy of Warwick)
 {{< tdclose >}}
 
 {{< trclose >}}
