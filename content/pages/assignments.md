@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the homework assignments and the paper topics for
+  the course along with their grading criteria.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
