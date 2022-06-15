@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about required and recommended texts,
+  and also lists the course readings as per the course schedule.
 draft: false
 learning_resource_types:
 - Readings
